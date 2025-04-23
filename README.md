@@ -11,5 +11,3 @@ Suporte a partidas sem login (usuários X e O)
 Continuação de partidas não finalizadas
 Exibição de estatísticas
 Informações salvas em arquivos `.txt` com separação por vírgulas
-
-## Exemplo de entrada no arquivo de estatísticas
